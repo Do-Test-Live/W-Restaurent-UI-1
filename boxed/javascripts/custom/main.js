@@ -1105,7 +1105,7 @@ var MAJESTY = MAJESTY || {};
     };
     MAJESTY.documentOnLoad = {
         init: function(){
-          MAJESTY.widget.parallax();            
+          MAJESTY.widget.parallax();
         }
 
     };
